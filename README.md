@@ -1,2 +1,2 @@
-# smb_backup
-Dart script that compresses a folder and stores it on a smb share (including WoL if server is not available)
+A sample command-line application with an entrypoint in `bin/`, library code
+in `lib/`, and example unit test in `test/`.
